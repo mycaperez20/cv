@@ -1,0 +1,26 @@
+.top{
+   background-color:#eff8ff; 
+   margin:none;
+}
+
+ .bottom{
+    background-color:#e8e8e8; 
+
+ }
+body{
+    margin: 0px;
+}
+ hr
+ {
+        border-style: none;
+        border-top-style: dotted;
+        border-color: gray;
+        border-width: 4px;
+        width: 5%;
+       
+        
+}
+
+.pro{
+    text-decoration: underline;
+}
